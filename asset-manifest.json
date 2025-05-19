@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hyakunin-isshu-reader/static/css/main.8699ebe2.css",
+    "main.js": "/hyakunin-isshu-reader/static/js/main.bf956b22.js",
+    "static/js/453.9ff946a5.chunk.js": "/hyakunin-isshu-reader/static/js/453.9ff946a5.chunk.js",
+    "index.html": "/hyakunin-isshu-reader/index.html",
+    "main.8699ebe2.css.map": "/hyakunin-isshu-reader/static/css/main.8699ebe2.css.map",
+    "main.bf956b22.js.map": "/hyakunin-isshu-reader/static/js/main.bf956b22.js.map",
+    "453.9ff946a5.chunk.js.map": "/hyakunin-isshu-reader/static/js/453.9ff946a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8699ebe2.css",
+    "static/js/main.bf956b22.js"
+  ]
+}
